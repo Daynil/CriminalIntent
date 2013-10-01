@@ -31,8 +31,6 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 
-// ok it worked, here's a change from the main lappy to send to the ultrabook
-// good, now how does removal work? I'm removing the initial statement about the main lappy change and adding this
 public class CrimeFragment extends Fragment {
 	
 	private static final String TAG = "CrimeFragment";
