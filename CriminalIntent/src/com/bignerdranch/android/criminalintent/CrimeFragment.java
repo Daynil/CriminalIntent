@@ -30,7 +30,7 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
-//change
+// this is a change from the ultrabook, can I pull it over to the main lappy?
 public class CrimeFragment extends Fragment {
 	
 	private static final String TAG = "CrimeFragment";
