@@ -30,7 +30,7 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
-
+//change
 public class CrimeFragment extends Fragment {
 	
 	private static final String TAG = "CrimeFragment";
